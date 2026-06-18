@@ -11,6 +11,7 @@ Welcome to my **Data Analytics Internship Portfolio**. This repository showcases
 * **Connect with Me:** 
   * 💼 [LinkedIn](https://www.linkedin.com/in/ayushmba)
   * 🌐 [GitHub Profile](https://github.com/forbesayush)
+  * 🖥️ [Portfolio Website](https://ayushchatterjee.me)
 
 ---
 
@@ -109,6 +110,7 @@ Through this internship, I have strengthened my ability to:
 ## 📫 Connect With Me
 * **LinkedIn:** [linkedin.com/in/ayushmba](https://www.linkedin.com/in/ayushmba)
 * **GitHub:** [github.com/forbesayush](https://github.com/forbesayush)
+* **Portfolio:** [ayushchatterjee.me](https://ayushchatterjee.me)
 
 ---
 
