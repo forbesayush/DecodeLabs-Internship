@@ -106,4 +106,10 @@ Through this internship, I have strengthened my ability to:
 
 ---
 
-⭐ *If you find this portfolio useful, feel free to explore the folders and connect with me on LinkedIn!*
+## 📫 Connect With Me
+* **LinkedIn:** [linkedin.com/in/ayushmba](https://www.linkedin.com/in/ayushmba)
+* **GitHub:** [github.com/forbesayush](https://github.com/forbesayush)
+
+---
+
+⭐ *If you find this portfolio useful, feel free to explore the folders and connect with me!*
